@@ -12,4 +12,4 @@ git clone https://github.com/vikoganz/contoh
 
 cd contoh
 
-sh vikoganz.sh
+python2 vikoganz.py
